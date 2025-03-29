@@ -3,10 +3,10 @@ layout: "layouts/homepage.njk"
 hero:
   subTitle: "WE WORK HARD, WE PLAY HARD"
   title:
-    firstPara: "We’re a Design Studio"
+    firstPara: "Manduka tu mejor eleccion en CABA"
     secondPara: "That Believes In Great Ideas"
   seeWorkBtn:
-    text: "See Our Works"
+    text: "Conoce nuestras pizzas"
     link: "#project"
   connectBtn: 
     text: "Connect with us"
